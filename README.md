@@ -2,9 +2,9 @@
 # 学生室プリンターの使い方(mac)
 学生室プリンタ(CANON  MF7455N)の使用法　　　
 
-Student Room Printer(CANON  MF7455N) Usage　for Mac　　　
+Student Room Printer(CANON  MF7455N) Usage for Mac　　　
 
-IP adress:`192.168.1.92`
+IP address:`192.168.1.92`
 
 ## step1.
 
